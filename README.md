@@ -7,6 +7,6 @@ Discover new possibilities by exploring the latest releases or exchanging ideas 
 Join a growing community of creatives and become part of Moonlight Space - the official marketplace for all things Moonlight.
 
 
-Discord: https://discord.gg/WyUZu2Y66N
-Website: https://moonightpanel.xyz
-Github: https://github.com/Moonlight-Panel
+Discord: https://discord.gg/WyUZu2Y66N<br>
+Website: https://moonightpanel.xyz<br>
+Github: https://github.com/Moonlight-Panel<br>
